@@ -1,5 +1,10 @@
 - Estudo e desenvolvimento do projeto baseado no player da NetFlix.
+Run
+- Executar npm install dentro da pasta do projeto.
+- npm run dev
+- npm run assets
 
+Para acessar no navegador: localhost:8080
 
 
 # Projeto base da JS Expert Week
