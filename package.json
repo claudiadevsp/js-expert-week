@@ -1,0 +1,24 @@
+{
+  "name": "jsexpert01-skeleton-ew",
+  "version": "1.0.0",
+  "description": "- Estudo e desenvolvimento do projeto baseado no player da NetFlix.",
+  "main": "index.js",
+  "scripts": {
+    "assets": "npx http-server --cors -p 8081 assets/",
+    "dev": "npx http-server --cors -p 8080 public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiadevsp/js-expert-week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiadevsp/js-expert-week/issues"
+  },
+  "homepage": "https://github.com/claudiadevsp/js-expert-week#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
