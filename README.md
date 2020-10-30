@@ -1,5 +1,5 @@
-- Estudo e desenvolvimento do projeto baseado no player da NetFlix.
-Run
+Estudo e desenvolvimento do projeto baseado no player da NetFlix. <br/>
+Run <br/>
 - Executar npm install dentro da pasta do projeto.
 - npm run dev
 - npm run assets
